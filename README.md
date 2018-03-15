@@ -1,4 +1,6 @@
 # Highcharts Angular
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fhighcharts-angular.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fhighcharts-angular?ref=badge_shield)
+
 Official minimal Highcharts wrapper for Angular
 
 ## Table of Contents
@@ -384,3 +386,6 @@ Contains Angular main component that uses the *chart* component.
 * **chart.component.ts** (in `src\app\chart`)
 
 Contains the chart component that creates Highcharts chart.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fhighcharts-angular.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fhighcharts-angular?ref=badge_large)
